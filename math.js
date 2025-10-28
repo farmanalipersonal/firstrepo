@@ -10,4 +10,8 @@ function product(a, b) {
   return a * b;
 }
 
-export { add, sub, product };
+function divide(a, b) {
+  return a / b;
+}
+
+export { add, sub, product, divide };
