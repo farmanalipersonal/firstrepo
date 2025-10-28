@@ -14,4 +14,8 @@ function divide(a, b) {
   return a / b;
 }
 
-export { add, sub, product, divide };
+function powerOf(a, b) {
+  return a ** b;
+}
+
+export { add, sub, product, divide, powerOf };
