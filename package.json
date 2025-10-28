@@ -1,0 +1,20 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "This is just a test repo to learn github.",
+  "homepage": "https://github.com/farmanalipersonal/firstrepo#readme",
+  "bugs": {
+    "url": "https://github.com/farmanalipersonal/firstrepo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farmanalipersonal/firstrepo.git"
+  },
+  "license": "ISC",
+  "author": "Farman Ali Personal",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
