@@ -1,2 +1,0 @@
-// Feature 02
-This is content for the Feature 02.
