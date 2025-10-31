@@ -1,0 +1,13 @@
+# Ignore build artifacts
+build/
+coverage/
+
+# Ignore specific file types
+**/*.html
+**/*.md
+
+# Ignore node_modules
+node_modules/
+
+# Ignore a specific file
+src/temp.js
