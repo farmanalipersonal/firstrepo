@@ -15,4 +15,3 @@ console.log(powerOf(a, b));
 console.log('The area is as below.');
 console.log(calculateArea(a, b));
 console.log(feature1);
-console.log(feature1);
