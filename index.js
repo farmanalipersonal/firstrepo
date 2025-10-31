@@ -2,6 +2,9 @@ import { add, sub, product, divide, powerOf } from './math.js';
 import { calculateArea } from './area.js';
 import { feature1 } from './feature1.js';
 
+// Hotfix by mohsin
+import { feature2 } from './feature2.js';
+
 const a = 5;
 const b = 6;
 
@@ -15,3 +18,4 @@ console.log(powerOf(a, b));
 console.log('The area is as below.');
 console.log(calculateArea(a, b));
 console.log(feature1);
+console.log(feature2);
